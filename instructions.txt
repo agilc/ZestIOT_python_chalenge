@@ -1,4 +1,4 @@
-The python code parses through the json files within a dictionary and stores the information in a hash table for easier acces.
+The python code parses through the json files within a dictionary and stores the information in a dictionary for easier access.
 The latest snapshots corresponding to each UUID has been stored as well.
 
 The steps to run the python code is as follows :
