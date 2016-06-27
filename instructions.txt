@@ -3,10 +3,10 @@ The latest snapshots corresponding to each UUID has been stored as well.
 
 The steps to run the python code is as follows :
 
- Step 1.	Extract all the json files and place it in a directory (/home/agil/intern || or do change the path to the directory       in the python code.)
+ Step 1.	Extract all the json files and place it in a directory (/home/agil/intern || or do change the path to the directory in the python code.)
  
  Step 2.	Place the python code in the same directory.
- 		      Ensure the permissions are set so that the python code can be executed.
+ Ensure the permissions are set so that the python code can be executed.
  		
  Step 3.	Execute the python code : python file.py
  
